@@ -39,5 +39,12 @@ htmlcov
 # General
 .DS_Store
 
+# Generated files
+test_cases.jsonl
+generate_test_cases_with_openai.py
+
+# Legacy
+tiktoken_py_legacy/
+
 Cargo.lock
 target/
